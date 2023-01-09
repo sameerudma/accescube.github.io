@@ -1,0 +1,9 @@
+		<script type="text/javascript">
+			<!--
+				function Redirect() {
+					window.location.replace("../../../../");
+				}
+				setTimeout('Redirect()', 100);
+			//-->
+		</script>
+		
